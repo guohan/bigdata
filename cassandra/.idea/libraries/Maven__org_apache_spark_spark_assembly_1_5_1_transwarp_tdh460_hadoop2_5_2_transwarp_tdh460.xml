@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-assembly-1.5.1:transwarp-tdh460-hadoop2.5.2-transwarp-tdh460">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-assembly-1.5.1/transwarp-tdh460-hadoop2.5.2-transwarp-tdh460/spark-assembly-1.5.1-transwarp-tdh460-hadoop2.5.2-transwarp-tdh460.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-assembly-1.5.1/transwarp-tdh460-hadoop2.5.2-transwarp-tdh460/spark-assembly-1.5.1-transwarp-tdh460-hadoop2.5.2-transwarp-tdh460-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-assembly-1.5.1/transwarp-tdh460-hadoop2.5.2-transwarp-tdh460/spark-assembly-1.5.1-transwarp-tdh460-hadoop2.5.2-transwarp-tdh460-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
