@@ -1,2 +1,4 @@
 # bigdata
-project  with spark hadoop hive kafka hbase cassandra and so on
+judge_dos_attack  2017年6月在facebook上认识一伊拉克妹子，在写毕业论文，课题是根据访问ip的日志记录，判断是否是dos攻击
+cassandra：这是infoq上面的一篇文章，kafka模拟生产汽车车辆相关数据，道路数据等，spark streaming实时计算后，相关结果存入cassandra数据库，通过websocket 在界面进行实时展现。
+kafkawebsocket： kafkawebsocket实现工具,运行工具类后，可以直接在jsp页面获取kafka topic下面的数据，可以实时呈现消费数据.
